@@ -1,0 +1,12 @@
+<ClientConfig>
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="desktopmini" technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="tabletmini"  technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+	<GameClient name="Tale of the Red Cliffs WLA" clientCode="mobilemini"  technology="HTML" height="320" width="480" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-0" />
+
+	<GameClient name="Tale of the Red Cliffs COM" clientCode="mobile"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-1" />
+	<GameClient name="Tale of the Red Cliffs COM" clientCode="tablet"  technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-1" />
+	<GameClient name="Tale of the Red Cliffs COM" clientCode="desktop" technology="HTML" height="600" width="960" meterheight="0" meterwidth="10" gameFolder="ThreeKingdomsFortune" enableFreeSpin="N" clientversion="1.0" gameId="300-2059-1" />
+</ClientConfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="zh_CN">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="总奖金"/>
+<phrase key="totalWager" value="总投注"/>
+<phrase key="winningNumbers" value="中奖号码"/>
+<phrase key="yourNumbers" value="你的号码"/>
+<phrase key="instantDoubler" value="2倍即开奖"/>
+<phrase key="instantMultiplier" value="5倍即开奖"/>
+<phrase key="instantMultiplier10x" value="10倍即开奖"/>
+<phrase key="instantMultiplier20x" value="20倍即开奖"/>
+<phrase key="youMatched" value="匹配号码"/>
+<phrase key="boardNumbers" value="号码"/>
+<phrase key="boardValues" value="奖金"/>
+</translation>
